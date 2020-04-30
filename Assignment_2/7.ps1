@@ -1,0 +1,1 @@
+﻿Get-Service | Export-Csv -Path C:\Users\sagar\Desktop\Service.csv
